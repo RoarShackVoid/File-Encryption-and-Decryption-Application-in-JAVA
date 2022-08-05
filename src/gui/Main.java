@@ -76,7 +76,7 @@ public class Main extends javax.swing.JFrame
 
         heading.setFont(new java.awt.Font("Vrinda", 1, 18)); // NOI18N
         heading.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        heading.setText("Welcome to File Encryption & Decryption Software created by Arlene Batada");
+        heading.setText("Welcome to File Encryption & Decryption Software created by Pranay Choubey");
 
         jLabel1.setFont(new java.awt.Font("Forte", 0, 24)); // NOI18N
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
@@ -103,10 +103,10 @@ public class Main extends javax.swing.JFrame
         });
 
         jLabel2.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
-        jLabel2.setText("contact: arlenebatada@ymail.com");
+        jLabel2.setText("contact: pranaychoubey800@gmail.com");
 
         jLabel3.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
-        jLabel3.setText("© Arlene Batada");
+        jLabel3.setText("Pranay Choubey");
 
         jLabel4.setFont(new java.awt.Font("Tempus Sans ITC", 1, 18)); // NOI18N
         jLabel4.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
