@@ -9,7 +9,7 @@ import javax.swing.*;
 
 /**
  *
- * @author Arlene
+ * @author Pranay
  */
 public class EncryptorAndDecryptor extends SwingWorker <Boolean,Boolean>
 {
