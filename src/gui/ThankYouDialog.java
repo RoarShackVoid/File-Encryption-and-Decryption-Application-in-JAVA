@@ -2,7 +2,7 @@ package gui;
 
 /**
  *
- * @author Arlene
+ * @author Pranay
  */
 public class ThankYouDialog extends javax.swing.JDialog
 {
@@ -72,7 +72,7 @@ public class ThankYouDialog extends javax.swing.JDialog
 
         jLabel2.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
         jLabel2.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel2.setText("for using File Encryption & Decryption Software created by Arlene Batada");
+        jLabel2.setText("for using File Encryption & Decryption Software created by Pranay Choubey");
 
         jLabel3.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
         jLabel3.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
@@ -81,7 +81,7 @@ public class ThankYouDialog extends javax.swing.JDialog
         jLabel4.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
         jLabel4.setForeground(new java.awt.Color(0, 51, 204));
         jLabel4.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel4.setText("arlenebatada@ymail.com");
+        jLabel4.setText("pranaychoubey800@gmail.com");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
