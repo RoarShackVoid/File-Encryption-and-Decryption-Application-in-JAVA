@@ -6,7 +6,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author Arlene
+ * @author Pranay
  */
 public class SourceFileNotDeletedDuringDecryption extends javax.swing.JDialog
 {
