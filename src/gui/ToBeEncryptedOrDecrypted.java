@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Arlene
+ * @author Pranay
  */
 public class ToBeEncryptedOrDecrypted extends javax.swing.JFrame
 {
