@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Arlene
+ * @author Pranay
  */
 
 public class PasswordTakerForDecryption extends javax.swing.JFrame
