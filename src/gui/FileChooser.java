@@ -17,7 +17,7 @@ import javax.swing.UIManager;
 
 /**
  *
- * @author Arlene
+ * @author Pranay
  */
 public class FileChooser extends javax.swing.JFrame
 {
