@@ -3,7 +3,7 @@ package gui;
 
 /**
  *
- * @author Arlene
+ * @author Pranay
  */
 import java.awt.BorderLayout;
 import java.awt.Dimension;
